@@ -1,0 +1,19 @@
+body {
+    background: #63649b;
+}
+article {
+    color: white;
+}
+
+article p {
+    color: black;
+}
+
+article del {
+    color: red;
+}
+
+article p ins,
+article div ins {
+    color: green;
+}
